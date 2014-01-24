@@ -1,0 +1,1 @@
+This is a starting readme.md. Will add to it later as I learn more.
